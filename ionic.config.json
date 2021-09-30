@@ -1,0 +1,7 @@
+{
+  "name": "pdf1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
